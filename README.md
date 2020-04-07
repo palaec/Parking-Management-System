@@ -1,8 +1,19 @@
 # Technology Stack
 • Java 8
-• Spring Boot
+• Spring Boot 2.2
 • Hibernate 
 • In-memory database (H2)
+
+# This application involves :
+• RESTful API (put , post , get)
+• Transaction management
+• Custom Exception handling
+• Custom Annotation for validation
+• Combination Filter search using Specification
+• Other necessary Validations.
+• Hibernate , one to many and many to one mapping.  
+
+## USE CASE
 
 # Bus
 • Each bus should have a unique plate number of pattern (BUS-XXX-XXX), where X is an
