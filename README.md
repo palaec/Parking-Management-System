@@ -4,7 +4,7 @@
 • Hibernate 
 • In-memory database (H2)
 
-# This application involves :
+# This application involves
 • RESTful API (put , post , get)
 • Transaction management
 • Custom Exception handling
