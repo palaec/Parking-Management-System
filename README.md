@@ -5,13 +5,13 @@
 • In-memory database (H2)
 
 # This application involves
-• RESTful API (put , post , get)
-• Transaction management
-• Custom Exception handling
-• Custom Annotation for validation
-• Combination Filter search using Specification
-• Other necessary Validations.
-• Hibernate , one to many and many to one mapping.  
+1. RESTful API (put , post , get)
+2. Transaction management
+3. Custom Exception handling
+4. Custom Annotation for validation
+5. Combination Filter search using Specification
+6. Other necessary Validations.
+7. Hibernate , one to many and many to one mapping.  
 
 ## USE CASE
 
